@@ -132,6 +132,6 @@ _Below is an example of how you can install and set up your app._
    
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mkiel01/Vending-Machine/blob/main/LICENSE) file for details.
 
 
