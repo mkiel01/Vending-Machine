@@ -117,6 +117,71 @@ _Below is the most interesting part of the project the sorting algorithm code_
 ```
 
 ### Visualization 
+   ```bash
+price of the product: 10
+money inserted: 15
+rest: 5
+Denomination: 0.1, Quantity: 15
+Denomination: 0.2, Quantity: 14
+Denomination: 5, Quantity: 13
+Denomination: 0.5, Quantity: 13
+Denomination: 1, Quantity: 12
+Denomination: 2, Quantity: 11
+icked coin denomination: 0.1zł
+still need to return 4.9zł
+picked coin denomination: 0.1zł
+still need to return 4.8zł
+picked coin denomination: 0.2zł
+still need to return 4.6zł
+picked coin denomination: 0.2zł
+still need to return 4.4zł
+picked coin denomination: 0.1zł
+still need to return 4.3zł
+picked coin denomination: 0.5zł
+still need to return 3.8zł
+picked coin denomination: 0.5zł
+still need to return 3.3zł
+picked coin denomination: 0.1zł
+still need to return 3.2zł
+picked coin denomination: 0.2zł
+still need to return 3zł
+picked coin denomination: 1zł
+still need to return 2zł
+picked coin denomination: 1zł
+still need to return 1zł
+picked coin denomination: 0.2zł
+still need to return 0.8zł
+picked coin denomination: 0.1zł
+still need to return 0.7zł
+picked coin denomination: 0.5zł
+still need to return 0.2zł
+picked coin denomination: 0.1zł
+still need to return 0.1zł
+picked coin denomination: 0.1zł
+proceeding with the rest of the money = 0
+
+updated quantity of bought product 64 
+
+Products:
+
+Volvo quantity: 64 price: 10
+BMW quantity: 6 price: 20
+Ford quantity: 200 price: 5
+Mazda quantity: 150 price: 7
+Ferrari quantity: 1 price: 100
+
+
+Coins in the machine:
+
+5zł quantity: 13
+2zł quantity: 11
+1zł quantity: 10
+0.5zł quantity: 10
+0.2zł quantity: 10
+0.1zł quantity: 8
+
+Process finished with exit code 0
+```
 
 ## Getting started 
 To get a local copy up and running follow these simple example steps.
