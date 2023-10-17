@@ -2,7 +2,7 @@
 
 C++ vending machine object-oriented programming project.
 
-## About
+## About 
 This project simulates a functioning vending machine with the following features:
 
 - Customers can view and purchase products.
