@@ -117,7 +117,7 @@ _Below is the most interesting part of the project the sorting algorithm code_
 ```
 
 ### Visualization 
-   ```bash
+   ```sh
 price of the product: 10
 money inserted: 15
 rest: 5
